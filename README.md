@@ -1,5 +1,5 @@
 # Embrace-Android-Studio-Demo
-本项目是本人个人博客上关于《拥抱 Android Studio》系列文章的 demo 工程，主要是为了方便读者联系上下文学习。
+本项目是本人个人博客上关于 [拥抱 Android Studio](http://kvh.io/tags/EmbraceAndroidStudio/) 系列文章的 demo 工程，主要是为了方便读者联系上下文学习。
 
 # 拥抱变化，拥抱新鲜事物
 在我们运营 [bugtags.com](https://bugtags.com) 这一款高效的 app 测试服务的时候，在帮助用户集成 Android SDK 的过程中，我们发现很多遗留项目依旧没有从 ADT 迁移过来，依然有很多用户对 Android Studio 怀着恐惧与不信任。我想我们有义务去做一个系列介绍，让更多的人拥抱变化，拥抱新鲜事物。
