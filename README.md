@@ -7,7 +7,7 @@
 # 系列说明
 [拥抱 Android Studio 之一：从 ADT 到 Android Studio](http://kvh.io/2015/12/01/embrace-android-studio-migration/)
 
-[拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/01/embrace-android-studio-indepth/)
+[拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
 
 拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础
 
