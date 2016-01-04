@@ -1,0 +1,3 @@
+include ':groovy'
+
+println 'print in settings.gradle'

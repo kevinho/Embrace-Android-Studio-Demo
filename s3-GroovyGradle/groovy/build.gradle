@@ -1,0 +1,7 @@
+apply plugin: 'java'
+apply plugin: 'groovy'
+
+dependencies {
+    compile localGroovy()
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
