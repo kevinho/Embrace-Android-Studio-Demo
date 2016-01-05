@@ -9,7 +9,7 @@
 
 [拥抱 Android Studio 之二：Android Studio 与 Gradle 深入](http://kvh.io/2015/12/17/embrace-android-studio-indepth/)
 
-拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础
+[拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
 
 拥抱 Android Studio 之四：Maven 库，本地库与发布到 bintray 或者 mavenCentral
 
