@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/S4-MavenDeploy.iml" filepath="$PROJECT_DIR$/S4-MavenDeploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bintrayaar/bintrayaar.iml" filepath="$PROJECT_DIR$/bintrayaar/bintrayaar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bintrayjar/bintrayjar.iml" filepath="$PROJECT_DIR$/bintrayjar/bintrayjar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localrepo/localrepo.iml" filepath="$PROJECT_DIR$/localrepo/localrepo.iml" />
+    </modules>
+  </component>
+</project>
