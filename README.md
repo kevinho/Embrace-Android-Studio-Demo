@@ -11,7 +11,7 @@
 
 [拥抱 Android Studio 之三：溯源，Groovy 与 Gradle 基础](http://kvh.io/2016/01/04/embrace-android-studio-groovy-gradle/)
 
-拥抱 Android Studio 之四：Maven 库，本地库与发布到 bintray 或者 mavenCentral
+[拥抱 Android Studio 之四：Maven 公共仓库使用与私有仓库搭建](http://kvh.io/2016/01/20/embrace-android-studio-maven-deploy/)
 
 拥抱 Android Studio 之五：Gradle 插件使用与开发
 

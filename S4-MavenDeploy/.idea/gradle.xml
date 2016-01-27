@@ -9,14 +9,20 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/bintrayaar" />
+            <option value="$PROJECT_DIR$/bintrayjar" />
+            <option value="$PROJECT_DIR$/localrepo" />
+            <option value="$PROJECT_DIR$/sonatyaar" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/bintrayaar" />
+            <option value="$PROJECT_DIR$/bintrayjar" />
+            <option value="$PROJECT_DIR$/localrepo" />
+            <option value="$PROJECT_DIR$/sonatyaar" />
           </set>
         </option>
       </GradleProjectSettings>

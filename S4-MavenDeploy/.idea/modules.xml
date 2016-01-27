@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/bintrayaar/bintrayaar.iml" filepath="$PROJECT_DIR$/bintrayaar/bintrayaar.iml" />
       <module fileurl="file://$PROJECT_DIR$/bintrayjar/bintrayjar.iml" filepath="$PROJECT_DIR$/bintrayjar/bintrayjar.iml" />
       <module fileurl="file://$PROJECT_DIR$/localrepo/localrepo.iml" filepath="$PROJECT_DIR$/localrepo/localrepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sonatyaar/sonatyaar.iml" filepath="$PROJECT_DIR$/sonatyaar/sonatyaar.iml" />
     </modules>
   </component>
 </project>
