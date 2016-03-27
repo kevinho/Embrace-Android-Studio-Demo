@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">S5-GradlePlugin</string>
+    <string name="action_settings">Settings</string>
+</resources>

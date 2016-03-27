@@ -1,0 +1,505 @@
+Starting Build
+Settings evaluated using settings file '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/settings.gradle'.
+Projects loaded. Root project using build file '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/build.gradle'.
+Included projects: [root project 's5-GradlePlugin', project ':app', project ':plugin']
+Evaluating root project 's5-GradlePlugin' using build file '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/build.gradle'.
+Evaluating project ':app' using build file '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/build.gradle'.
+Creating configuration compile
+Creating configuration apk
+Creating configuration provided
+Creating configuration wearApp
+Creating configuration androidTestCompile
+Creating configuration androidTestApk
+Creating configuration androidTestProvided
+Creating configuration androidTestWearApp
+Creating configuration testCompile
+Creating configuration testApk
+Creating configuration testProvided
+Creating configuration testWearApp
+Creating configuration debugCompile
+Creating configuration debugApk
+Creating configuration debugProvided
+Creating configuration debugWearApp
+Creating configuration testDebugCompile
+Creating configuration testDebugApk
+Creating configuration testDebugProvided
+Creating configuration testDebugWearApp
+Creating configuration releaseCompile
+Creating configuration releaseApk
+Creating configuration releaseProvided
+Creating configuration releaseWearApp
+Creating configuration testReleaseCompile
+Creating configuration testReleaseApk
+Creating configuration testReleaseProvided
+Creating configuration testReleaseWearApp
+Parsing the SDK, no caching allowed
+Parsing /Users/changbinhe/Documents/Android/sdk/add-ons/addon-google_apis-google-21/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/add-ons/addon-google_apis-google-22/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/19.0.3/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/19.1.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/21.0.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/21.0.2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/21.1.1/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/21.1.2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/22.0.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/22.0.1/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.1/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/android-4.4W/package.xml
+Observed package id 'build-tools;20.0.0' in inconsistent location '/Users/changbinhe/Documents/Android/sdk/build-tools/android-4.4W' (Expected '/Users/changbinhe/Documents/Android/sdk/build-tools/20.0.0')
+Parsing /Users/changbinhe/Documents/Android/sdk/docs/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/android/m2repository/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/android/support/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/google/m2repository/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/intel/Hardware_Accelerated_Execution_Manager/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platform-tools/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-18/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-19/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-20/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-21/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-22/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-23/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/samples/android-19/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/samples/android-21/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/samples/android-22/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/samples/android-23/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-18/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-19/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-20/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-21/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-22/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-23/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/system-images/android-23/google_apis/x86/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/tools/package.xml
+Not using incremental javac compilation.
+Incremental java compilation is an incubating feature.
+Not using incremental javac compilation.
+Not using incremental javac compilation.
+Not using incremental javac compilation.
+Not using incremental javac compilation.
+Evaluating project ':plugin' using build file '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/plugin/build.gradle'.
+All projects evaluated.
+Selected primary task 'build' from project :app
+Tasks to be executed: [task ':app:preBuild', task ':app:preDebugBuild', task ':app:checkDebugManifest', task ':app:preReleaseBuild', task ':app:prepareComAndroidSupportAppcompatV72311Library', task ':app:prepareComAndroidSupportDesign2311Library', task ':app:prepareComAndroidSupportRecyclerviewV72311Library', task ':app:prepareComAndroidSupportSupportV42311Library', task ':app:prepareDebugDependencies', task ':app:compileDebugAidl', task ':app:compileDebugRenderscript', task ':app:generateDebugBuildConfig', task ':app:generateDebugAssets', task ':app:mergeDebugAssets', task ':app:generateDebugResValues', task ':app:generateDebugResources', task ':app:mergeDebugResources', task ':app:processDebugManifest', task ':app:processDebugResources', task ':app:generateDebugSources', task ':app:compileDebugJavaWithJavac', task ':app:compileDebugNdk', task ':app:compileDebugSources', task ':app:prePackageMarkerForDebug', task ':app:transformClassesWithDexForDebug', task ':app:mergeDebugJniLibFolders', task ':app:transformNative_libsWithMergeJniLibsForDebug', task ':app:processDebugJavaRes', task ':app:transformResourcesWithMergeJavaResForDebug', task ':app:validateDebugSigning', task ':app:packageDebug', task ':app:zipalignDebug', task ':app:assembleDebug', task ':app:checkReleaseManifest', task ':app:prepareReleaseDependencies', task ':app:compileReleaseAidl', task ':app:compileReleaseRenderscript', task ':app:generateReleaseBuildConfig', task ':app:generateReleaseAssets', task ':app:mergeReleaseAssets', task ':app:generateReleaseResValues', task ':app:generateReleaseResources', task ':app:mergeReleaseResources', task ':app:processReleaseManifest', task ':app:processReleaseResources', task ':app:generateReleaseSources', task ':app:compileReleaseJavaWithJavac', task ':app:compileReleaseNdk', task ':app:compileReleaseSources', task ':app:lintVitalRelease', task ':app:prePackageMarkerForRelease', task ':app:transformClassesWithDexForRelease', task ':app:mergeReleaseJniLibFolders', task ':app:transformNative_libsWithMergeJniLibsForRelease', task ':app:processReleaseJavaRes', task ':app:transformResourcesWithMergeJavaResForRelease', task ':app:packageRelease', task ':app:assembleRelease', task ':app:assemble', task ':app:compileLint', task ':app:lint', task ':app:preDebugUnitTestBuild', task ':app:prepareDebugUnitTestDependencies', task ':app:compileDebugUnitTestJavaWithJavac', task ':app:processDebugUnitTestJavaRes', task ':app:compileDebugUnitTestSources', task ':app:mockableAndroidJar', task ':app:assembleDebugUnitTest', task ':app:testDebugUnitTest', task ':app:preReleaseUnitTestBuild', task ':app:prepareReleaseUnitTestDependencies', task ':app:compileReleaseUnitTestJavaWithJavac', task ':app:processReleaseUnitTestJavaRes', task ':app:compileReleaseUnitTestSources', task ':app:assembleReleaseUnitTest', task ':app:testReleaseUnitTest', task ':app:test', task ':app:check', task ':app:build']
+:app:preBuild (Thread[main,5,main]) started.
+:app:preBuild
+Skipping task ':app:preBuild' as it has no actions.
+:app:preBuild UP-TO-DATE
+:app:preBuild (Thread[main,5,main]) completed. Took 0.013 secs.
+:app:preDebugBuild (Thread[main,5,main]) started.
+:app:preDebugBuild
+Skipping task ':app:preDebugBuild' as it has no actions.
+:app:preDebugBuild UP-TO-DATE
+:app:preDebugBuild (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:checkDebugManifest (Thread[main,5,main]) started.
+:app:checkDebugManifest
+Executing task ':app:checkDebugManifest' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+:app:checkDebugManifest (Thread[main,5,main]) completed. Took 0.003 secs.
+:app:preReleaseBuild (Thread[main,5,main]) started.
+:app:preReleaseBuild
+Skipping task ':app:preReleaseBuild' as it has no actions.
+:app:preReleaseBuild UP-TO-DATE
+:app:preReleaseBuild (Thread[main,5,main]) completed. Took 0.004 secs.
+:app:prepareComAndroidSupportAppcompatV72311Library (Thread[main,5,main]) started.
+:app:prepareComAndroidSupportAppcompatV72311Library
+Skipping task ':app:prepareComAndroidSupportAppcompatV72311Library' as it is up-to-date (took 0.202 secs).
+:app:prepareComAndroidSupportAppcompatV72311Library UP-TO-DATE
+:app:prepareComAndroidSupportAppcompatV72311Library (Thread[main,5,main]) completed. Took 0.205 secs.
+:app:prepareComAndroidSupportDesign2311Library (Thread[main,5,main]) started.
+:app:prepareComAndroidSupportDesign2311Library
+Skipping task ':app:prepareComAndroidSupportDesign2311Library' as it is up-to-date (took 0.009 secs).
+:app:prepareComAndroidSupportDesign2311Library UP-TO-DATE
+:app:prepareComAndroidSupportDesign2311Library (Thread[main,5,main]) completed. Took 0.009 secs.
+:app:prepareComAndroidSupportRecyclerviewV72311Library (Thread[main,5,main]) started.
+:app:prepareComAndroidSupportRecyclerviewV72311Library
+Skipping task ':app:prepareComAndroidSupportRecyclerviewV72311Library' as it is up-to-date (took 0.004 secs).
+:app:prepareComAndroidSupportRecyclerviewV72311Library UP-TO-DATE
+:app:prepareComAndroidSupportRecyclerviewV72311Library (Thread[main,5,main]) completed. Took 0.004 secs.
+:app:prepareComAndroidSupportSupportV42311Library (Thread[main,5,main]) started.
+:app:prepareComAndroidSupportSupportV42311Library
+Skipping task ':app:prepareComAndroidSupportSupportV42311Library' as it is up-to-date (took 0.006 secs).
+:app:prepareComAndroidSupportSupportV42311Library UP-TO-DATE
+:app:prepareComAndroidSupportSupportV42311Library (Thread[main,5,main]) completed. Took 0.01 secs.
+:app:prepareDebugDependencies (Thread[main,5,main]) started.
+:app:prepareDebugDependencies
+Executing task ':app:prepareDebugDependencies' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+:app:prepareDebugDependencies (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileDebugAidl (Thread[main,5,main]) started.
+:app:compileDebugAidl
+Skipping task ':app:compileDebugAidl' as it is up-to-date (took 0.008 secs).
+:app:compileDebugAidl UP-TO-DATE
+:app:compileDebugAidl (Thread[main,5,main]) completed. Took 0.009 secs.
+:app:compileDebugRenderscript (Thread[main,5,main]) started.
+:app:compileDebugRenderscript
+Skipping task ':app:compileDebugRenderscript' as it is up-to-date (took 0.015 secs).
+:app:compileDebugRenderscript UP-TO-DATE
+:app:compileDebugRenderscript (Thread[main,5,main]) completed. Took 0.036 secs.
+:app:generateDebugBuildConfig (Thread[main,5,main]) started.
+:app:generateDebugBuildConfig
+Skipping task ':app:generateDebugBuildConfig' as it is up-to-date (took 0.007 secs).
+:app:generateDebugBuildConfig UP-TO-DATE
+:app:generateDebugBuildConfig (Thread[main,5,main]) completed. Took 0.087 secs.
+:app:generateDebugAssets (Thread[main,5,main]) started.
+:app:generateDebugAssets
+Skipping task ':app:generateDebugAssets' as it has no actions.
+:app:generateDebugAssets UP-TO-DATE
+:app:generateDebugAssets (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:mergeDebugAssets (Thread[main,5,main]) started.
+:app:mergeDebugAssets
+Skipping task ':app:mergeDebugAssets' as it is up-to-date (took 0.005 secs).
+:app:mergeDebugAssets UP-TO-DATE
+:app:mergeDebugAssets (Thread[main,5,main]) completed. Took 0.007 secs.
+:app:generateDebugResValues (Thread[main,5,main]) started.
+:app:generateDebugResValues
+Skipping task ':app:generateDebugResValues' as it is up-to-date (took 0.003 secs).
+:app:generateDebugResValues UP-TO-DATE
+:app:generateDebugResValues (Thread[main,5,main]) completed. Took 0.004 secs.
+:app:generateDebugResources (Thread[main,5,main]) started.
+:app:generateDebugResources
+Skipping task ':app:generateDebugResources' as it has no actions.
+:app:generateDebugResources UP-TO-DATE
+:app:generateDebugResources (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:mergeDebugResources (Thread[main,5,main]) started.
+:app:mergeDebugResources
+Skipping task ':app:mergeDebugResources' as it is up-to-date (took 0.103 secs).
+:app:mergeDebugResources UP-TO-DATE
+:app:mergeDebugResources (Thread[main,5,main]) completed. Took 0.104 secs.
+:app:processDebugManifest (Thread[main,5,main]) started.
+:app:processDebugManifest
+Skipping task ':app:processDebugManifest' as it is up-to-date (took 0.007 secs).
+:app:processDebugManifest UP-TO-DATE
+:app:processDebugManifest (Thread[main,5,main]) completed. Took 0.008 secs.
+:app:processDebugResources (Thread[main,5,main]) started.
+:app:processDebugResources
+Skipping task ':app:processDebugResources' as it is up-to-date (took 0.069 secs).
+:app:processDebugResources UP-TO-DATE
+:app:processDebugResources (Thread[main,5,main]) completed. Took 0.071 secs.
+:app:generateDebugSources (Thread[main,5,main]) started.
+:app:generateDebugSources
+Skipping task ':app:generateDebugSources' as it has no actions.
+:app:generateDebugSources UP-TO-DATE
+:app:generateDebugSources (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:compileDebugJavaWithJavac (Thread[main,5,main]) started.
+:app:compileDebugJavaWithJavac
+file or directory '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/src/debug/java', not found
+Skipping task ':app:compileDebugJavaWithJavac' as it is up-to-date (took 0.019 secs).
+:app:compileDebugJavaWithJavac UP-TO-DATE
+:app:compileDebugJavaWithJavac (Thread[main,5,main]) completed. Took 0.022 secs.
+:app:compileDebugNdk (Thread[main,5,main]) started.
+:app:compileDebugNdk
+Skipping task ':app:compileDebugNdk' as it has no source files.
+:app:compileDebugNdk UP-TO-DATE
+:app:compileDebugNdk (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:compileDebugSources (Thread[main,5,main]) started.
+:app:compileDebugSources
+Skipping task ':app:compileDebugSources' as it has no actions.
+:app:compileDebugSources UP-TO-DATE
+:app:compileDebugSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:prePackageMarkerForDebug (Thread[main,5,main]) started.
+:app:prePackageMarkerForDebug
+Executing task ':app:prePackageMarkerForDebug' (up-to-date check took 0.003 secs) due to:
+  Value of input property 'buildId' has changed for task ':app:prePackageMarkerForDebug'
+All input files are considered out-of-date for incremental task ':app:prePackageMarkerForDebug'.
+:app:prePackageMarkerForDebug (Thread[main,5,main]) completed. Took 0.023 secs.
+:app:transformClassesWithDexForDebug (Thread[main,5,main]) started.
+:app:transformClassesWithDexForDebug
+Skipping task ':app:transformClassesWithDexForDebug' as it is up-to-date (took 0.01 secs).
+:app:transformClassesWithDexForDebug UP-TO-DATE
+:app:transformClassesWithDexForDebug (Thread[main,5,main]) completed. Took 0.012 secs.
+:app:mergeDebugJniLibFolders (Thread[main,5,main]) started.
+:app:mergeDebugJniLibFolders
+Skipping task ':app:mergeDebugJniLibFolders' as it is up-to-date (took 0.003 secs).
+:app:mergeDebugJniLibFolders UP-TO-DATE
+:app:mergeDebugJniLibFolders (Thread[main,5,main]) completed. Took 0.004 secs.
+:app:transformNative_libsWithMergeJniLibsForDebug (Thread[main,5,main]) started.
+:app:transformNative_libsWithMergeJniLibsForDebug
+Skipping task ':app:transformNative_libsWithMergeJniLibsForDebug' as it is up-to-date (took 0.005 secs).
+:app:transformNative_libsWithMergeJniLibsForDebug UP-TO-DATE
+:app:transformNative_libsWithMergeJniLibsForDebug (Thread[main,5,main]) completed. Took 0.006 secs.
+:app:processDebugJavaRes (Thread[main,5,main]) started.
+:app:processDebugJavaRes
+Skipping task ':app:processDebugJavaRes' as it has no source files.
+:app:processDebugJavaRes UP-TO-DATE
+:app:processDebugJavaRes (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:transformResourcesWithMergeJavaResForDebug (Thread[main,5,main]) started.
+:app:transformResourcesWithMergeJavaResForDebug
+Skipping task ':app:transformResourcesWithMergeJavaResForDebug' as it is up-to-date (took 0.003 secs).
+:app:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+:app:transformResourcesWithMergeJavaResForDebug (Thread[main,5,main]) completed. Took 0.003 secs.
+:app:validateDebugSigning (Thread[main,5,main]) started.
+:app:validateDebugSigning
+Executing task ':app:validateDebugSigning' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:validateDebugSigning (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:packageDebug (Thread[main,5,main]) started.
+:app:packageDebug
+Skipping task ':app:packageDebug' as it is up-to-date (took 0.006 secs).
+:app:packageDebug UP-TO-DATE
+:app:packageDebug (Thread[main,5,main]) completed. Took 0.007 secs.
+:app:zipalignDebug (Thread[main,5,main]) started.
+:app:zipalignDebug
+Skipping task ':app:zipalignDebug' as it is up-to-date (took 0.025 secs).
+:app:zipalignDebug UP-TO-DATE
+:app:zipalignDebug (Thread[main,5,main]) completed. Took 0.028 secs.
+:app:assembleDebug (Thread[main,5,main]) started.
+:app:assembleDebug
+Skipping task ':app:assembleDebug' as it has no actions.
+:app:assembleDebug UP-TO-DATE
+:app:assembleDebug (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:checkReleaseManifest (Thread[main,5,main]) started.
+:app:checkReleaseManifest
+Executing task ':app:checkReleaseManifest' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:checkReleaseManifest (Thread[main,5,main]) completed. Took 0.002 secs.
+:app:prepareReleaseDependencies (Thread[main,5,main]) started.
+:app:prepareReleaseDependencies
+Executing task ':app:prepareReleaseDependencies' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:prepareReleaseDependencies (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileReleaseAidl (Thread[main,5,main]) started.
+:app:compileReleaseAidl
+Skipping task ':app:compileReleaseAidl' as it is up-to-date (took 0.003 secs).
+:app:compileReleaseAidl UP-TO-DATE
+:app:compileReleaseAidl (Thread[main,5,main]) completed. Took 0.005 secs.
+:app:compileReleaseRenderscript (Thread[main,5,main]) started.
+:app:compileReleaseRenderscript
+Skipping task ':app:compileReleaseRenderscript' as it is up-to-date (took 0.005 secs).
+:app:compileReleaseRenderscript UP-TO-DATE
+:app:compileReleaseRenderscript (Thread[main,5,main]) completed. Took 0.007 secs.
+:app:generateReleaseBuildConfig (Thread[main,5,main]) started.
+:app:generateReleaseBuildConfig
+Skipping task ':app:generateReleaseBuildConfig' as it is up-to-date (took 0.003 secs).
+:app:generateReleaseBuildConfig UP-TO-DATE
+:app:generateReleaseBuildConfig (Thread[main,5,main]) completed. Took 0.005 secs.
+:app:generateReleaseAssets (Thread[main,5,main]) started.
+:app:generateReleaseAssets
+Skipping task ':app:generateReleaseAssets' as it has no actions.
+:app:generateReleaseAssets UP-TO-DATE
+:app:generateReleaseAssets (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:mergeReleaseAssets (Thread[main,5,main]) started.
+:app:mergeReleaseAssets
+Skipping task ':app:mergeReleaseAssets' as it is up-to-date (took 0.003 secs).
+:app:mergeReleaseAssets UP-TO-DATE
+:app:mergeReleaseAssets (Thread[main,5,main]) completed. Took 0.005 secs.
+:app:generateReleaseResValues (Thread[main,5,main]) started.
+:app:generateReleaseResValues
+Skipping task ':app:generateReleaseResValues' as it is up-to-date (took 0.002 secs).
+:app:generateReleaseResValues UP-TO-DATE
+:app:generateReleaseResValues (Thread[main,5,main]) completed. Took 0.003 secs.
+:app:generateReleaseResources (Thread[main,5,main]) started.
+:app:generateReleaseResources
+Skipping task ':app:generateReleaseResources' as it has no actions.
+:app:generateReleaseResources UP-TO-DATE
+:app:generateReleaseResources (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:mergeReleaseResources (Thread[main,5,main]) started.
+:app:mergeReleaseResources
+Skipping task ':app:mergeReleaseResources' as it is up-to-date (took 0.11 secs).
+:app:mergeReleaseResources UP-TO-DATE
+:app:mergeReleaseResources (Thread[main,5,main]) completed. Took 0.111 secs.
+:app:processReleaseManifest (Thread[main,5,main]) started.
+:app:processReleaseManifest
+Skipping task ':app:processReleaseManifest' as it is up-to-date (took 0.003 secs).
+:app:processReleaseManifest UP-TO-DATE
+:app:processReleaseManifest (Thread[main,5,main]) completed. Took 0.004 secs.
+:app:processReleaseResources (Thread[main,5,main]) started.
+:app:processReleaseResources
+Skipping task ':app:processReleaseResources' as it is up-to-date (took 0.036 secs).
+:app:processReleaseResources UP-TO-DATE
+:app:processReleaseResources (Thread[main,5,main]) completed. Took 0.039 secs.
+:app:generateReleaseSources (Thread[main,5,main]) started.
+:app:generateReleaseSources
+Skipping task ':app:generateReleaseSources' as it has no actions.
+:app:generateReleaseSources UP-TO-DATE
+:app:generateReleaseSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileReleaseJavaWithJavac (Thread[main,5,main]) started.
+:app:compileReleaseJavaWithJavac
+file or directory '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/src/release/java', not found
+Skipping task ':app:compileReleaseJavaWithJavac' as it is up-to-date (took 0.016 secs).
+:app:compileReleaseJavaWithJavac UP-TO-DATE
+:app:compileReleaseJavaWithJavac (Thread[main,5,main]) completed. Took 0.018 secs.
+:app:compileReleaseNdk (Thread[main,5,main]) started.
+:app:compileReleaseNdk
+Skipping task ':app:compileReleaseNdk' as it has no source files.
+:app:compileReleaseNdk UP-TO-DATE
+:app:compileReleaseNdk (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileReleaseSources (Thread[main,5,main]) started.
+:app:compileReleaseSources
+Skipping task ':app:compileReleaseSources' as it has no actions.
+:app:compileReleaseSources UP-TO-DATE
+:app:compileReleaseSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:lintVitalRelease (Thread[main,5,main]) started.
+:app:lintVitalRelease
+Executing task ':app:lintVitalRelease' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:lintVitalRelease (Thread[main,5,main]) completed. Took 2.931 secs.
+:app:prePackageMarkerForRelease (Thread[main,5,main]) started.
+:app:prePackageMarkerForRelease
+Executing task ':app:prePackageMarkerForRelease' (up-to-date check took 0.002 secs) due to:
+  Value of input property 'buildId' has changed for task ':app:prePackageMarkerForRelease'
+All input files are considered out-of-date for incremental task ':app:prePackageMarkerForRelease'.
+:app:prePackageMarkerForRelease (Thread[main,5,main]) completed. Took 0.008 secs.
+:app:transformClassesWithDexForRelease (Thread[main,5,main]) started.
+:app:transformClassesWithDexForRelease
+Skipping task ':app:transformClassesWithDexForRelease' as it is up-to-date (took 0.01 secs).
+:app:transformClassesWithDexForRelease UP-TO-DATE
+:app:transformClassesWithDexForRelease (Thread[main,5,main]) completed. Took 0.011 secs.
+:app:mergeReleaseJniLibFolders (Thread[main,5,main]) started.
+:app:mergeReleaseJniLibFolders
+Skipping task ':app:mergeReleaseJniLibFolders' as it is up-to-date (took 0.002 secs).
+:app:mergeReleaseJniLibFolders UP-TO-DATE
+:app:mergeReleaseJniLibFolders (Thread[main,5,main]) completed. Took 0.003 secs.
+:app:transformNative_libsWithMergeJniLibsForRelease (Thread[main,5,main]) started.
+:app:transformNative_libsWithMergeJniLibsForRelease
+Skipping task ':app:transformNative_libsWithMergeJniLibsForRelease' as it is up-to-date (took 0.002 secs).
+:app:transformNative_libsWithMergeJniLibsForRelease UP-TO-DATE
+:app:transformNative_libsWithMergeJniLibsForRelease (Thread[main,5,main]) completed. Took 0.003 secs.
+:app:processReleaseJavaRes (Thread[main,5,main]) started.
+:app:processReleaseJavaRes
+Skipping task ':app:processReleaseJavaRes' as it has no source files.
+:app:processReleaseJavaRes UP-TO-DATE
+:app:processReleaseJavaRes (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:transformResourcesWithMergeJavaResForRelease (Thread[main,5,main]) started.
+:app:transformResourcesWithMergeJavaResForRelease
+Skipping task ':app:transformResourcesWithMergeJavaResForRelease' as it is up-to-date (took 0.003 secs).
+:app:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:app:transformResourcesWithMergeJavaResForRelease (Thread[main,5,main]) completed. Took 0.004 secs.
+:app:packageRelease (Thread[main,5,main]) started.
+:app:packageRelease
+Skipping task ':app:packageRelease' as it is up-to-date (took 0.006 secs).
+:app:packageRelease UP-TO-DATE
+:app:packageRelease (Thread[main,5,main]) completed. Took 0.009 secs.
+:app:assembleRelease (Thread[main,5,main]) started.
+:app:assembleRelease
+Skipping task ':app:assembleRelease' as it has no actions.
+:app:assembleRelease (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:assemble (Thread[main,5,main]) started.
+:app:assemble
+Skipping task ':app:assemble' as it has no actions.
+:app:assemble (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:compileLint (Thread[main,5,main]) started.
+:app:compileLint
+Executing task ':app:compileLint' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:compileLint (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:lint (Thread[main,5,main]) started.
+:app:lint
+Executing task ':app:lint' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+Ran lint on variant debug: 2 issues found
+Ran lint on variant release: 2 issues found
+Wrote HTML report to file:///Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/build/outputs/lint-results-debug.html
+Wrote XML report to file:///Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/build/outputs/lint-results-debug.xml
+:app:lint (Thread[main,5,main]) completed. Took 3.298 secs.
+:app:preDebugUnitTestBuild (Thread[main,5,main]) started.
+:app:preDebugUnitTestBuild
+Skipping task ':app:preDebugUnitTestBuild' as it has no actions.
+:app:preDebugUnitTestBuild UP-TO-DATE
+:app:preDebugUnitTestBuild (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:prepareDebugUnitTestDependencies (Thread[main,5,main]) started.
+:app:prepareDebugUnitTestDependencies
+Executing task ':app:prepareDebugUnitTestDependencies' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:prepareDebugUnitTestDependencies (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileDebugUnitTestJavaWithJavac (Thread[main,5,main]) started.
+:app:compileDebugUnitTestJavaWithJavac
+file or directory '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/src/testDebug/java', not found
+Skipping task ':app:compileDebugUnitTestJavaWithJavac' as it is up-to-date (took 0.009 secs).
+:app:compileDebugUnitTestJavaWithJavac UP-TO-DATE
+:app:compileDebugUnitTestJavaWithJavac (Thread[main,5,main]) completed. Took 0.011 secs.
+:app:processDebugUnitTestJavaRes (Thread[main,5,main]) started.
+:app:processDebugUnitTestJavaRes
+Skipping task ':app:processDebugUnitTestJavaRes' as it has no source files.
+:app:processDebugUnitTestJavaRes UP-TO-DATE
+:app:processDebugUnitTestJavaRes (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileDebugUnitTestSources (Thread[main,5,main]) started.
+:app:compileDebugUnitTestSources
+Skipping task ':app:compileDebugUnitTestSources' as it has no actions.
+:app:compileDebugUnitTestSources UP-TO-DATE
+:app:compileDebugUnitTestSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:mockableAndroidJar (Thread[main,5,main]) started.
+:app:mockableAndroidJar
+Skipping task ':app:mockableAndroidJar' as it is up-to-date (took 0.001 secs).
+:app:mockableAndroidJar UP-TO-DATE
+:app:mockableAndroidJar (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:assembleDebugUnitTest (Thread[main,5,main]) started.
+:app:assembleDebugUnitTest
+Skipping task ':app:assembleDebugUnitTest' as it has no actions.
+:app:assembleDebugUnitTest UP-TO-DATE
+:app:assembleDebugUnitTest (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:testDebugUnitTest (Thread[main,5,main]) started.
+:app:testDebugUnitTest
+Executing task ':app:testDebugUnitTest' (up-to-date check took 0.027 secs) due to:
+  Value of input property 'executable' has changed for task ':app:testDebugUnitTest'
+Starting process 'Gradle Test Executor 1'. Working directory: /Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app Command: /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/bin/java -Djava.awt.headless=true -Djava.security.manager=jarjar.org.gradle.process.internal.child.BootstrapSecurityManager -Dfile.encoding=UTF-8 -Duser.country=CN -Duser.language=zh -Duser.variant -ea -cp /Users/changbinhe/.gradle/caches/2.10/workerMain/gradle-worker.jar jarjar.org.gradle.process.internal.launcher.GradleWorkerMain 'Gradle Test Executor 1'
+Successfully started process 'Gradle Test Executor 1'
+Gradle Test Executor 1 started executing tests.
+Gradle Test Executor 1 finished executing tests.
+Finished generating test XML results (0.01 secs) into: /Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/build/test-results/debug
+Generating HTML test report...
+Finished generating test html results (0.035 secs) into: /Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/build/reports/tests/debug
+:app:testDebugUnitTest (Thread[main,5,main]) completed. Took 1.08 secs.
+:app:preReleaseUnitTestBuild (Thread[main,5,main]) started.
+:app:preReleaseUnitTestBuild
+Skipping task ':app:preReleaseUnitTestBuild' as it has no actions.
+:app:preReleaseUnitTestBuild UP-TO-DATE
+:app:preReleaseUnitTestBuild (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:prepareReleaseUnitTestDependencies (Thread[main,5,main]) started.
+:app:prepareReleaseUnitTestDependencies
+Executing task ':app:prepareReleaseUnitTestDependencies' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:prepareReleaseUnitTestDependencies (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileReleaseUnitTestJavaWithJavac (Thread[main,5,main]) started.
+:app:compileReleaseUnitTestJavaWithJavac
+file or directory '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/src/testRelease/java', not found
+Skipping task ':app:compileReleaseUnitTestJavaWithJavac' as it is up-to-date (took 0.009 secs).
+:app:compileReleaseUnitTestJavaWithJavac UP-TO-DATE
+:app:compileReleaseUnitTestJavaWithJavac (Thread[main,5,main]) completed. Took 0.011 secs.
+:app:processReleaseUnitTestJavaRes (Thread[main,5,main]) started.
+:app:processReleaseUnitTestJavaRes
+Skipping task ':app:processReleaseUnitTestJavaRes' as it has no source files.
+:app:processReleaseUnitTestJavaRes UP-TO-DATE
+:app:processReleaseUnitTestJavaRes (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:compileReleaseUnitTestSources (Thread[main,5,main]) started.
+:app:compileReleaseUnitTestSources
+Skipping task ':app:compileReleaseUnitTestSources' as it has no actions.
+:app:compileReleaseUnitTestSources UP-TO-DATE
+:app:compileReleaseUnitTestSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:assembleReleaseUnitTest (Thread[main,5,main]) started.
+:app:assembleReleaseUnitTest
+Skipping task ':app:assembleReleaseUnitTest' as it has no actions.
+:app:assembleReleaseUnitTest UP-TO-DATE
+:app:assembleReleaseUnitTest (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:testReleaseUnitTest (Thread[main,5,main]) started.
+:app:testReleaseUnitTest
+Executing task ':app:testReleaseUnitTest' (up-to-date check took 0.012 secs) due to:
+  Value of input property 'executable' has changed for task ':app:testReleaseUnitTest'
+Starting process 'Gradle Test Executor 2'. Working directory: /Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app Command: /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/bin/java -Djava.awt.headless=true -Djava.security.manager=jarjar.org.gradle.process.internal.child.BootstrapSecurityManager -Dfile.encoding=UTF-8 -Duser.country=CN -Duser.language=zh -Duser.variant -ea -cp /Users/changbinhe/.gradle/caches/2.10/workerMain/gradle-worker.jar jarjar.org.gradle.process.internal.launcher.GradleWorkerMain 'Gradle Test Executor 2'
+Successfully started process 'Gradle Test Executor 2'
+Gradle Test Executor 2 started executing tests.
+Gradle Test Executor 2 finished executing tests.
+Finished generating test XML results (0.002 secs) into: /Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/build/test-results/release
+Generating HTML test report...
+Finished generating test html results (0.013 secs) into: /Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin/app/build/reports/tests/release
+:app:testReleaseUnitTest (Thread[main,5,main]) completed. Took 0.778 secs.
+:app:test (Thread[main,5,main]) started.
+:app:test
+Skipping task ':app:test' as it has no actions.
+:app:test (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:check (Thread[main,5,main]) started.
+:app:check
+Skipping task ':app:check' as it has no actions.
+:app:check (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:build (Thread[main,5,main]) started.
+:app:build
+Skipping task ':app:build' as it has no actions.
+:app:build (Thread[main,5,main]) completed. Took 0.0 secs.
+
+BUILD SUCCESSFUL
+
+Total time: 16.242 secs
+Stopped 0 compiler daemon(s).
+
+This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.10/userguide/gradle_daemon.html
