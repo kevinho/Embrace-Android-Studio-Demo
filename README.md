@@ -13,7 +13,7 @@
 
 [拥抱 Android Studio 之四：Maven 公共仓库使用与私有仓库搭建](http://kvh.io/2016/01/20/embrace-android-studio-maven-deploy/)
 
-拥抱 Android Studio 之五：Gradle 插件使用与开发
+[拥抱 Android Studio 之五：Gradle 插件使用与开发](http://kvh.io/2016/03/28/embrace-android-studio-gradle-plugin/)
 
 > 有问题？在文章下留言或者加 qq 群：453503476，希望能帮到你。
 
