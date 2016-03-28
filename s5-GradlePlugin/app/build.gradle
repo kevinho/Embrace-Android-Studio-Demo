@@ -49,7 +49,7 @@ apkdistconf {
     nameMap { name ->
         return name
     }
-    destDir '/Users/changbinhe/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin'
+    destDir '/Users/your-user-name/Documents/git/opensource/embrace-android-studio-demo/s5-GradlePlugin'
 }
 
 

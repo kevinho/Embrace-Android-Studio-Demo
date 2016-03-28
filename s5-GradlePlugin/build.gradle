@@ -3,7 +3,7 @@
 buildscript {
     repositories {
         maven{
-            url 'file:///Users/changbinhe/Documents/Android/repo/'
+            url 'file:///Users/your-user-name/Documents/Android/repo/'
         }
         jcenter()
     }
